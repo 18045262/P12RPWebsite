@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P12RPWebsite</string>
+    <string name="Category">Category</string>
+    <string name="SubCategory">Sub-Category</string>
+    <string name="GO">GO</string>
+
+    <string-array name="category">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+
+    <string-array name="subClass">
+        <item>DMSD</item>
+        <item>DIT</item>
+    </string-array>
+
+    <string-array name="subRP">
+        <item>Student Life</item>
+        <item>Home Page</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
